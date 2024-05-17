@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently on my 3rd year doing Computer Science(extended)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...alialundea@gmail.com
+- 📫 How to reach me ...alialundeka@gmail.com
 
 <!---
 Lundeka/Lundeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
